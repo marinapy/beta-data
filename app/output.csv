@@ -1,38 +1,632 @@
 ,Prospect Name,Prospect email ,FR Name,Published Date
-109,"Kline, Joe",rjkline10@gmail.com,Josh Powell (B5086),7/13/17
-115,"Sides, Matthew",sides.b.matthew@gmail.com,"Wittman, Cody J. (0B7940)",7/13/17
-245,"Sequeira, Javier (plan under Heidi)",resume_sequeira@yahoo.com,"Sykes, Jerret N. (0C2626)",7/13/17
-278,"Boger, Amie",Bogerak@gmail.com,"Jackman, Jeffrey M. (0C3165)",7/19/17
-282,"Gillespy , Nathan ",ngillespy@arcisgolf.com,"Vehslage, John J. (0B8564)",7/13/17
-430,"Soriano, Anthony",asoriano@dominuscommercial.com,"Puga, Julian JR   (0C2597)",7/13/17
-434,"Mann, Dawn",dmann@alphabusinessimages.com,"Daou, Suzanne R. (0C0468)",7/13/17
-438,"Fiala, Jamie",jfiala07_bball@hotmail.com,"Eikmeier, Mathew J. (019495)",7/17/17
-446,"Bowen, Chase",taren8686@yahoo.com,"Robb, Matthew D. (0C5405)",7/14/17
-448,"Auman, Zach",zpa4br@virginia.edu,"Gilbert, Adam S. (0C5193)",7/17/17
-449,"Hajek, Dustin",DUSTINHAJEK@YMAIL.COM,"Russell, Christie M. (0C6198)",7/13/17
-453,"O`Brien, Michael ",obie252@yahoo.com,"Russell, Christie M. (0C6198)",7/14/17
-456,"Burrell-Cullins, Melody ",melodyburrell6810@msn.com.,"Ling, Jennifer (0B9405)",7/17/17
-460,"Watson, DeAngelo",djwatso1@aggies.ncat.edu,"Hunter, Marlon B. JR (0C0288)",7/14/17
-461,"Laman , Greg",greg@graileys.com.,"Evatt, Daniel T. (0B5440)",7/19/17
-462,"Garretson, Matthew",matthew.garretson@verizonwireless.com,"Evatt, Daniel T. (0B5440)",7/14/17
-464,"Berger, Josh",jberger@gmail.com,"Bearden, Travis G. (0B1188)",7/20/17
-466,"Bridgman, Slater",slater.bridgman@gmail.com ,"Vehslage, John J. (0B8564)",7/18/17
-470,"Josey, Marion",marianjosey@gmail.com,"Jackman, Jeffrey M. (0C3165)",7/19/17
-471,"Ard, Brian",brianpard@gmail.com,"Friedrich, Philip L. (018519)",7/17/17
-476,"Dorcey, Josh",joshuadorcey@hotmail.com,"Friedrich, Philip L. (018519)",7/18/17
-478,"Taibemal, Austin",ajtaibemal@gmail.com,"Friedrich, Philip L. (018519)",7/18/17
-484,"Rogers, Mandy",mandyrbusby@gmail.com,"Schofield, Justin D. (0B4511)",7/18/17
-488,"La Brie, Jeremy",jeremy.labrie@yahoo.com.,"Davis, Ryan G. (0E2661)",7/18/17
-489,"Meysenburg, Nick",nmeysenburg1128@huskers.unl.edu,"Friedrich, Philip L. (018519)",7/19/17
-490,"Schiltmeyer, Eric",schilt_meyereric11@hotmail.com,"Eiler, Cody J. (0C6378)",7/18/17
-491,"Sekutera, Jed",jed@mnfeeds.com,"Eiler, Cody J. (0C6378)",7/18/17
-492,"Asche, Josh",josh.asche@lcpublic.org,"Eiler, Cody J. (0C6378)",7/18/17
-496,"Akouala, Christer",akouala.rc@gmail.com,"Fonseca Rodriguez, Carlos M. (0B1409)",7/18/17
-497,"Bradberry, Jerod",jerod.bradberry@gmail.com,"Meredith, Jacob B. (0C5721)",7/19/17
-498,"Luu, Michael",luu.serah@gmail.com,"Schofield, Justin D. (0B4511)",7/18/17
-499,"Wilson, Robert",rfwilson24@gmail.com,"Hargrove, Joshua D. (0B5135)",7/19/17
-502,"Ritz, Brandy ",brandyritz@gmail.com,"Elias, Nathan C. (016131",7/19/17
-509,"Sumner, Bryan",bsumner@eagles.nccu.edu,"Hunter, Marlon B. JR   (0C0288)",7/19/17
-510,"Ovary, Jonathan ",jonross92@yahoo.com,"Hunter, Marlon B. JR   (0C0288)",7/20/17
-512,"Rawlinson, Ryan",davidrawlinson814@gmail.com.,"Earles, Jordan P. (0C3116)",7/20/17
-513,"Langevin, Rachel",radiant428@gmail.com,"De Anda, David M. SR (0B1037)",7/19/17
+0,Jacques Nyemb,jacques.nyemb@gmail.com,Adam Gilbert (0C5193),SV
+1,John Summerville,jsummerville@twr.org,Adam Gilbert (0C5193),SV
+2,Kyle Freehart,kfreehart@gmail.com,Johnathan Williams  (B0512),SV
+3,Daniel Carr,,Josh Wall (20923),SV
+4,Kristan Handley,handley79@hotmail.com,Adam Gilbert (0C5193),SV
+5,Mike Solano,ellie.solano@farragut.com,Josh Wall (20923),SV
+6,Nicholas Cherry,ncherry@my.waketech.edu,Josh Wall (20923),SV
+7,Matthew Martinez,dmartinez@raleighchamber.org,Adam Gilbert (0C5193),SV
+8,"Kessell, Bryan ",bryankesselrun@gmail.com ,Adam Gilbert (0C5193),SV
+9,"Mackorell, John ",John.mackorell@intervarsity.org,Adam Gilbert (0C5193),SV
+10,"Shaltry, Mike ",mike.shaltry@precisionfabrics.com,Josh Wall (20923),SV
+11,"Passalugo, Jack ",,James Wheeler (E0875),SV
+12,"Andrews, Julie ",julrossa@gmail.com,"Wittman, Cody (0B7940)",SV
+13,"Meisner, Wallie",,"Jackman, Jeffrey M. (0C3165)",SV
+14,"Dennis, Seth ",gdennis87@gmail.com,James Wheeler (E0875),SV
+15,"Zwiesdak, Kelly",kjzwiesdak@gmail.com,James Wheeler (E0875),SV
+16,"Griffith, Joey",jgriff51@aol.com,"Jackman, Jeffrey M. (0C3165)",SV
+17,"Gathers, Angela",,"Wall, Joshua T. (020923)",SV
+18,"Routh, Blake","bcrouth@uncg.edu
+","Jackman, Jeffrey M. (0C3165)",SV
+19,"Horvat, Jacob",jacob.a.horvat@gmail.com,"Wittman, Cody J. (0B7940)",SV
+20,"Recher, Bobby",n/a,Adam Gilbert (0C5193),SV
+21,"Spampinato, Steven",sspampi@yahoo.com,Adam Gilbert (0C5193),SV
+22,"Waters, Liz ",lizwaters@gmail.com ,"Gilbert, Adam S. (0C5193)",SV
+23,"Player, Lonnie",lonnie@lonnieplayerlaw.com,"Williams, Johnathan P. (0B0512)",SV
+24,,n/a,"Fonseca Rodriguez, Carlos M. (0B1409)",SV
+25,"Moss, Bill",n/a,"Wall, Joshua T. (020923)",SV
+26,"Papaila , Griffin",griffin.papaila@gmail.com,Ryan Timmothy Neal (B0113RTN),SV
+27,"Jung, Robert",rljung@gmail.com,"Ling, Jennifer (0B9405)",SV
+28,"Wheeler, Greg",gregory.wheeler@quintiles.com,"Wheeler, James B. (0E0875)",SV
+29,"Clift, David",,"De Anda, David M. SR (0B1037)",SV
+30,"Crawford, Robert",robcrawfordgm@gmail.com,"Powell, Joshua C. (0B5086)",SV
+31,"Thomas, Jeremy",n/a,"Powell, Joshua C. (0B5086)",SV
+32,"Czar,Victor",illegible on FF,"Powell, Joshua C. (0B5086)",SV
+33,"Fields, William",fields@raefordlawyer.com,"Powell, Joshua C. (0B5086)",SV
+34,"Fiala, Michael",mfiala44@gmail.com,"Powell, Joshua C. (0B5086)",SV
+35,"Tapper, Paul",p_tapper@hotmail.com,"Ling, Jennifer (0B9405)",SV
+36,"Woodbridge, Anne",annwoodbridge@me.com,"De Anda, David M. SR   (0B1037)",SV
+37,"Brown, Niya",brown_niya@yahoo.com,"Washington, Sean A. (0C0464)",SV
+38,"Dotie, Laura",annadocie@aol.com,"Washington, Sean A. (0C0464)",SV
+39,"Hegwer, Hal",,"Powell, Joshua C. (0B5086)",SV
+40,"Lee, Jo Ah",joah.lee0104@gmail.com,"Brown, Raymond T. (0B6807)",SV
+41,"Sundrani, Navid",n/a,"Brown, Raymond T. (0B6807)",SV
+42,"Gupta, Ujjwal",ukgupta@gmail.com,"Weizel, Daniel R. (0B3919)",SV
+43,"Crawford, Tony",,"Robb, Matthew D. (0C5405)",SV
+44,"Crawford, Cheryl",cheryl.crawford@trintech.com,"Robb, Matthew D. (0C5405)",SV
+45,"Redden, Daniel",Danny.Redden@gmail.com,"Daou, Suzanne R. (0C0468)",SV
+46,"Campos, Helena",,"Dobson, Dennis R. (0B6274)",SV
+47,"Francis, Casey",casey.francis@penskeautomotive.com,"Wall, Joshua T. (020923)",SV
+48,"Christmas, Alex",christmasa12@outlook.com,"Powell, Joshua C. (0B5086)",SV
+49,"Yeahl, Jesse",jesse.yeahl@penske.com,"Williams, Johnathan P. (0B0512)",SV
+50,"Noble, Lisa",n/a,"Dobson, Dennis R. (0B6274)",SV
+51,"Ordieres, George",n/a,"Evatt, Daniel T. (0B5440)",SV
+52,Carlos Noyes,ccn5cw@virginia.edu,Adam Gilbert (0C5193),2/23/2017
+53,David Grant,djgrantdc@gmail.com,Josh Wall (20923),2/22/2017
+54,Elizabeth Hughes,elizahug@gmail.com,Adam Gilbert (0C5193) & Johnathan Williams (B0512),3/7/2017
+55,Joshua Wall,joshua.wall@gmail.com,Josh Wall (20923),3/24/2017
+56,Daniel Mariscal,dmariscal24@gmail.com,Josh Powell (B5086),2/28/2017
+57,Heather Hills,heatherhills@duke.edu,Josh Powell (B5086),3/8/2017
+58,Melvin Velasquez,kveelasquz1@gmail.com,Johnathan Williams  (B0512),4/5/2017
+59,Van Fussel,vtfussel@ncsu.edu,Adam Gilbert (0C5193),3/13/2017
+60,Danielle Myers,danielle.myers1@gmail.com,Adam Gilbert (0C5193),4/5/2017
+61,Lance Clevinger,lanceclevinger@gmail.com,Adam Gilbert (0C5193),3/20/2017
+62,Seth Hooper,shooper@abfboone.org,Adam Gilbert (0C5193),3/27/2017
+63,"Ertel, Carlton ",cncertel@embarqmail.com,Johnathan Williams  (B0512) & Josh Powell (B5086),4/25/2017
+64,Suzy Cash ,"suzy@suzycash.com
+",Josh Powell (B5086),4/27/2017
+65,"Cadle, Jacob ",cadle.jacob@nm.com,Josh Powell (B5086),3/29/2017
+66,"Britt, Daniel ","daniel@brittattorney.com
+",Josh Powell (B5086) ?Joint Work?,3/22/2017
+67,"Boren, Eric ",borenet@gmail.com,Josh Wall (20923),3/31/2017
+68,"Cardwell, Brent ",bcardwell@primepay.com ,Josh Powell (B5086),4/3/2017
+69,"Riehl, Jocelyne",jriehl@rmjameslaw.com,James Wheeler (E0875),4/3/2017
+70,Cernansky Emma,cernae05@hotmail.com,"Hunter, Marlon B. JR (0C0288)",4/7/2017
+71,"Baker, Brandi",bubaker85@gmail.com,"Hunter, Marlon B. JR (0C0288)",4/3/2017
+72,"Quinn, Sarah",sequinn@ncsu.edu,"Jackman, Jeffrey M. (0C3165)",3/30/2017
+73,"Corder, Ryan & Erin",erinacorder@gmail.com,Adam Gilbert (0C5193),4/14/2017
+74,"Crystal, Duncan",,"Jackman, Jeffrey M. (0C3165)",4/11/2017
+75,"Scott, Candice",,"Hunter, Marlon B. JR (0C0288)",4/6/2017
+76,"Jeter, Zach",zachjeter95@aol.com,"Hunter, Marlon B. JR (0C0288)",4/6/2017
+77,"Mobley, Leslie",lmobley1972@gmail.com,James Wheeler (E0875),4/10/2017
+78,"Williams, Vernon",,James Wheeler (E0875),4/5/2017
+79,"Moore, Tim",timothyv.moore@libertymutual.com,James Wheeler (E0875),7/6/2017
+80,"Irby, Nafeesha",Nafeesha.irby@teachforamerica.org,"Hunter, Marlon B. JR (0C0288)",4/24/2017
+81,"Clifton, Coley ",clifton11@ecualumni.ecu.edu,Adam Gilbert (0C5193),4/18/2017
+82,"Brown, Zachary",pzakyrie@gmail.com,Adam Gilbert (0C5193),5/5/2017
+83,"Buenaventura, Corina",corina.buenaventura.linares@gmail.com,James Wheeler (E0875),4/13/2017
+84,"Gardner, Ronald",rontc652@gmail.com,"Wall, Joshua T. (020923)",4/12/2017
+85,"Ross, Jones",rossjones@yourabsolutecomfort.com,"Hunter, Marlon B. JR (0C0288)",4/14/2017
+86,"Robinson, Rashida",r.l.robinson12@hotmail.com,"Hunter, Marlon B. JR (0C0288)",4/17/2017
+87,"Ronan, Caolan",caolanronan@gmail.com,"Wheeler, James B. (0E0875)",5/19/2017
+88,"Okumoto, Brianna",brianna.okumoto@charter.com,"Fonseca Rodriguez, Carlos M. (0B1409)",4/14/2017
+89,"Urena,David",codyandrew29@yahoo.com,"Fonseca, Carlos",4/25/2017
+90,"Knight, Daniel",dknight@andersonandjones.com,"Gilbert, Adam S. (0C5193)",7/6/2017
+91,"Harris, Eddie",cassietucker02@gmail.com,"Jackman, Jeffrey M. (0C3165)",4/21/2017
+92,"Hannigan, Jessica",jkhannigan@gmail.com,"Jackman, Jeffrey M. (0C3165)",4/26/2017
+93,"Pages, Ernesto","epages@toknc.com
+","Hunter, Marlon B. JR (0C0288)",4/19/2017
+94,"Brown, Keoda ",n/a,"Jackman, Jeffrey M. (0C3165)",4/26/2017
+95,"Sorrell, Colby",ncsorel@ncsu.edu,"Wheeler, James B. (0E0875)",4/19/2017
+96,"Hardware, Jjvon",jjvon.hardware@gmail.com,"Wheeler, James B. (0E0875)",4/25/2017
+97,"Young, Marla",n/a,"Jackman, Jeffrey M. (0C3165)",4/26/2017
+98,"Taylor, Janze ",n/a,Josh Powell (B5086),5/26/2017
+99,"Katibah, Karen",Karen.Katibah@gmail.com,Adam Gilbert (0C5193),4/26/2017
+100,"Cho, Angela",n/a,"Gilbert, Adam S. (0C5193)",4/26/2017
+101,"Moger, Sam",n/a,"Jackman, Jeffrey M. (0C3165)",4/27/2017
+102,"Fray, Michael",michaelfray06@yahoo.com,Johnathan Williams  (B0512),4/27/2017
+103,"Barkley, Daniel",laurenbarkley@icloud.com,"Gilbert, Adam S. (0C5193)",5/9/2017
+104,"Brown, Jamaal","jamaalbrown9@gmail.com
+","Hunter, Marlon B. JR (0C0288)",4/25/2017
+105,"Britt, Gala",n/a,"Hunter, Marlon B. JR (0C0288)",4/25/2017
+106,"Plum, Joey",joeyplum@alum.mit.edu,Josh Powell (B5086),5/18/2017
+107,"Oglesby,Gabriel",oglesby.gabriel@gmail.com,"Wheeler, James B. (0E0875)",4/28/2017
+108,"Curl, Kelly",kcurltha@gmail.com,"Wheeler, James B. (0E0875)",5/4/2017
+109,"Kline, Joe",rjkline10@gmail.com,Josh Powell (B5086),7/13/2017
+110,"Michel, TJ",tmichel@fastenal.com,"Wheeler, James B. (0E0875)",4/28/2017
+111,"Coleman, Joseph",Joseph.Coleman@patheon.com,"Wheeler, James B. (0E0875)",5/4/2017
+112,"Wesson, Mike",michaelamanda10@gmail.com,"Powell, Joshua C. (0B5086)",5/2/2017
+113,"Norman, Moses",moses925@gmail.com,Johnathan Williams  (B0512),5/5/2017
+114,"Isley, Cade ",cisley22@gmail.com,"Wittman, Cody J. (0B7940)",5/8/2017
+115,"Sides, Matthew",sides.b.matthew@gmail.com,"Wittman, Cody J. (0B7940)",7/13/2017
+116,"Gonzalez,Luis",chase.davis@icidigital.com,"Wall, Joshua T. (020923)",5/2/2017
+117,"Loeser, Mike",mloeser@stratasolar.com,"Wheeler, James B. (0E0875)",5/4/2017
+118,"Boone, Derek","deboone@cisco.com
+","Hunter, Marlon B. JR (0C0288)",5/4/2017
+119,"Johnson, Shannon",shannonj9125@gmail.com,"Jackman, Jeffrey M. (0C3165)",5/5/2017
+120,"Evans, Alan",alan.evans@lord.com,"Gilbert, Adam S. (0C5193)",5/18/2017
+121,"
+Yu, Katie",katie.u@intervarsity.org,"Gilbert, Adam S. (0C5193)",5/2/2017
+122,"Taylor, Whitney",rtaylor3b11@gmail.com,"Jackman, Jeffrey M. (0C3165)",5/15/2017
+123,"Myers, Rogers",n/a,"Wittman, Cody J. (0B7940)",5/26/2017
+124,"Mora, Greg",Gmora@stratasolar.com,"Wheeler, James B. (0E0875)",5/9/2017
+125,"Crader, Brett ","bcrader@wesco.com
+","Fatter, Mervin E. III (0B0734)",5/11/2017
+126,"Boyd, Leland",lmboyd1221@gmail.com,"Hunter, Marlon B. JR (0C0288)",5/11/2017
+127,"Mounger, Zayne",zaynemounger@gmail.com,"Schofield, Justin (B4511JDS)",5/11/2017
+128,"Brooks, Bryant",bkb450@aol.com,"Washington, Sean A (0C0464)",5/18/2017
+129,"Zayas, Christopher",christopher.zayas@gmail.com,"Brown, Raymond T (0B6807)",5/12/2017
+130,"Rodriguez, Francisco",n/a,"Fonseca Rodriguez, Carlos M. (0B1409)",5/15/2017
+131,"Curry, Tiana",tcurrymccoy@augusta.edu,"Marlon
+Brandon Hunter JR  (C0288MBH)",5/16/2017
+132,"Patterson, Johnathan",jaimartin@live.com,"Powell, Joshua C. (0B5086)",5/12/2017
+133,"ShePPArd, Judson",judson5@gmail.com,"Schofield, Justin D. (B4511JDS)",5/17/2017
+134,"Murphey, Stephen",n/a,"Brown, Raymond T. (0B6807)",5/15/2017
+135,"Furlough, Chandler ",n/a,"Gilbert, Adam S. (0C5193)",5/18/2017
+136,"McClain, Judi",jlmcclain97@gmail.com,"Ling, Jennifer (0B9405)",5/15/2017
+137,"Greathouse, Coy",coygreathousesolutions@gmail.com,"Schofield, Justin D. (0B4511)",5/16/2017
+138,"Oliver, Ryan",Oliverryan36@yahoo.com,"Schofield, Justin D. (0B4511)",5/19/2017
+139,"Johnson, Lars",Uriah07e@gmail.com,"Sykes, Jerret N. (0C2626)",5/16/2017
+140,"Turner, Mat",Matt.Turner@rentenbach.com,"Wheeler, James B. (0E0875)",7/6/2017
+141,"Walker, Michael",mbw4688@gmail.com,"Fonseca Rodriguez, Carlos M. (0B1409)",5/18/2017
+142,"Buchanan, Melissa",melb3233@gmail.com,"Russell, Christie M. (0C6198)",5/17/2017
+143,"Howard, Forrest",katmfrye@gmail.com,"Hunter, Marlon B. JR (0C0288)",5/17/2017
+144,"Daccache, Julie",daccache@amazon.com,"Jackman, Jeffrey M. (0C3165)",5/18/2017
+145,"Brandley, Joseph",jbrandley@uumcfw.com,"Ling, Jennifer (0B9405)",5/24/2017
+146,"Pigneri, Scott",Scott.pigneri@gmail.com,"Schofield, Justin D. (0B4511)",5/19/2017
+147,"Hodges, Jennifer ",jenniferahodges16@gamil.com,"Russell, Christie M. (0C6198)",5/19/2017
+148,"Myles, Kristina",DrKMyles@Airrosti.com,"Russell, Christie M. (0C6198)",5/22/2017
+149,"Wheeler, Brad",,"Jackman, Jeffrey M. (0C3165)",5/26/2017
+150,"Adams, Andrew",andrewadamslaw@gmail.com,"Jackman, Jeffrey M. (0C3165)",5/22/2017
+151,"Foster, Jasmine",n/a,"Jackman, Jeffrey M. (0C3165)",5/23/2017
+152,"Brannigan, Megan",MBrannigan@drhrlaw,"Schofield, Justin D. (0B4511)",6/12/2017
+153,"Gorman, Ben",bennygman@gmail.com,"Jackman, Jeffrey M. (0C3165)",5/30/2017
+154,"Svatek, Matthew",n/a,"Sykes, Jerret N. (0C2626)",5/24/2017
+155,"Moore, Allie",allie@dentonaguam.com,"Weizel, Daniel R. (0B3919)",5/25/2017
+156,"
+Herrera, Jessica",n/a,"Cooley, Willis J. (0C1659)",5/26/2017
+157,"Wilkerson , Jake ",jakewilkerson2012@gmail.com ,"Cooley, Willis J. (0C1659)",5/24/2017
+158,"Nelson, Tyler",n/a,"Russell, Christie M. (0C6198)",5/25/2017
+159,"Lewis, Duncan",duncan.lewis11@gmail.com,"Wall, Joshua T. (020923)",5/31/2017
+160,"Varebrook, Travis",travis.varebrook@syngenta.com,"Wheeler, James B. (0E0875)",5/25/2017
+161,"Trego, Austin",n/a,"
+Russell, Christie M. (0C6198)",7/5/2017
+162,"Dale, Takira",takira.dale@gmail.com,"Hunter, Marlon B. JR   (0C0288)",5/30/2017
+163,"Smith, Sarah",n/a,"Sykes, Jerret N. (0C2626)",5/25/2017
+164,"Poteat, Trey",n/a,"Sykes, Jerret N. (0C2626)",5/25/2017
+165,"Harrison, Dusty",dustyharrison@gmail.com,"Gilbert, Adam S. (0C5193)",SV
+166,"Okonye, Jeffrey",Jeffrey.okonye@gmail.com,"Hunter, Marlon B. JR (0C0288)",6/7/2017
+167,"Phegley, Dereck",n/a,"Sykes, Jerret N. (0C2626)",6/2/2017
+168,"Casey, Christina",ccasey05@gmail.com,"""
+Russell, Christie M. (0C6198)""",6/2/2017
+169,"Christensen, Robby ",n/a,"Sykes, Jerret N. (0C2626)",5/30/2017
+170,"Scott, Blake",,"Weizel, Daniel R. (0B3919)",6/1/2017
+171,"Wolters, Oliver",ollie@cleancause.com,"Fatter, Mervin E. III  (0B0734)",6/1/2017
+172,"Huang, Dr. Henry",huang.hbear@gmail.com,"Ling, Jennifer (0B9405)",6/16/2017
+173,"Bingham, Jonathan",rayjb6@hotmail.com,"Ling, Jennifer (0B9405)",6/1/2017
+174,"Jasper, Tyler",tylerjasper1@gmail.com,"Wheeler, James B. (0E0875)",6/1/2017
+175,"Bethea, Brian",brianbethea13@gmail.com,"Brown, Raymond T. (0B6807)",6/1/2017
+176,"Miles, Chris",,"Schofield, Justin D. (0B4511)",6/1/2017
+177,"Davis, Carrie",n/a,"Sykes, Jerret N. (0C2626)",5/31/2017
+178,"Bordley, Krystle",krystlebordley@gmail.com,"Russell, Christie M. (0C6198)",6/1/2017
+179,"Flowers, Scott",n/a,"Jackman, Jeffrey M. (0C3165)",6/6/2017
+180,"Bednarczyk, Tabitha",bednarczyk09@gmail.com,"Wittman, Cody J. (0B7940)",6/2/2017
+181,"Hooper, Zachary",paigeelizabeth.pb@gmail.com,"Jackman, Jeffrey M. (0C3165)",6/9/2017
+182,"Mattingly, Heather",heathermattingly@gmail.com,"Sykes, Jerret N. (0C2626)",6/7/2017
+183,"Lumbley, Kristen",klum425@gmail.com,"Russell, Christie M. (0C6198)",6/5/2017
+184,"Hsieh, Natalie",natalienhsieh@gmail.com,"Gilbert, Adam S. (0C5193)",6/8/2017
+185,"Ditommaso, Steven ",steven_ditommaso@yahoo.com,"Cooley, Willis J. (0C1659)",6/6/2017
+186,"Collazo, Danielle",dcollazo@gmail.com,"Gilbert, Adam S. (0C5193)",6/7/2017
+187,"Barry, Ross",rossbarry@gmail.com,"Sykes, Jerret N. (0C2626)",6/6/2017
+188,"Ballantine, Carolyn",coballantine@gmail.com,"Gilbert, Adam S. (0C5193)",6/8/2017
+189,"Mitchell, Levelle",n/a,"Hunter, Marlon B. JR (0C0288)",6/6/2017
+190,"Lamb, Luke",,"Huffaker, Wesley A. (0C6173)",6/12/2017
+191,"Sevier, Charles",cksevier@gmail.com,"Jackman, Jeffrey M. (0C3165)",6/6/2017
+192,"McCrory, Matt",mccrormp@gmail.com,"Gilbert, Adam S. (0C5193)",6/7/2017
+193,"Amini, Nikki",browsbynikki@gmail.com,"Daou, Suzanne R. (0C0468)",6/23/2017
+194,"Daniels, Tyler",,"Huffaker, Wesley A. (0C6173)",6/12/2017
+195,"Borsboom, Alexandra",,"Robb, Matthew D. (0C5405)",6/8/2017
+196,"Schneider, Matt",n/a,"Russell, Christie M. (0C6198)",6/8/2017
+197,"Fonseca, Marco",n/a,"Fonseca Rodriguez, Carlos M. (0B1409)",6/7/2017
+198,"John, Steve",n/a,"Huffaker, Wesley A. (0C6173)",6/12/2017
+199,"Eckstein, Todd",eckstein.todd@yahoo.com,"Jackman, Jeffrey M. (0C3165)",6/14/2017
+200,"Venable, Scott",,"Robb, Matthew D. (0C5405)",6/18/2017
+201,"Palmer, Jordan",jxpalm@gmail.com ,"Schofield, Justin D. (0B4511)",6/12/2017
+202,"Rochelle, Heather",,"Schofield, Justin D. (0B4511)",6/12/2017
+203,"Davis, Madison",n/a,"Hunter, Marlon B. JR (0C0288)",6/8/2017
+204,"McElroy, Rodney",n/a,"Bearden, Travis G. (0B1188)",6/9/2017
+205,"Lambert, Brooke",lambertb@uncw.edu,"Fonseca Rodriguez, Carlos M. (0B1409)",6/12/2017
+206,"Tipton, Kelly",n/a,"Sykes, Jerret N. (0C2626)",6/16/2017
+207,"Pollan, Will",willpollan@yahoo.com,"Dobson, Dennis R. (0B6274)",6/15/2017
+208,"Weatherred, Jordan",n/a,"Bearden, Travis G. (0B1188)",6/20/2017
+209,"Breyer, Emma",n/a,"Dobson, Dennis R. (0B6274)",6/13/2017
+210,"Haseltine, Katherine",n/a,"  Hunter, Marlon B. JR   (0C0288)",6/19/2017
+211,"Shove, Abby",ashove@destinationweddings.com,"Russell, Christie M. (0C6198)",6/29/2017
+212,"Mixppalaneni, Jagadeesh",,"Evatt, Daniel T. (0B5440)",6/7/2017
+213,"John, Steve",n/a,"Huffaker, Wesley A. (0C6173)",6/12/2017
+214,"Tipton, Kelly",n/a,"Sykes, Jerret N. (0C2626)",6/16/2017
+215,"Kivett, Brian",brian@milestone.works,"Gilbert, Adam S. (0C5193)",SV
+216,"Thie, Alec",alec.thie@gmail.com ,"Russell, Christie M. (0C6198)",6/12/2017
+217,"Simrel, Alexius",simrel7@gmail.com,"Hunter, Marlon B. JR (0C0288)",6/14/2017
+218,"Will, Beecher",williambeecher10@yahoo.com,"Huffaker, Wesley A. (0C6173)",6/15/2017
+219,"Miller, Chris",chrisjoonmiller@gmail.com,"Gilbert, Adam S. (0C5193)",SV
+220,"Pugel, Hayley",n/a,"Schofield, Justin D. (0B4511)",
+221,"Bezinque, Tori",,"Schofield, Justin D. (0B4511)",6/13/2017
+222,"Bailey, Rachel",,"Dobson, Dennis R. (0B6274)",7/6/2017
+223,"Roan , Kathryn",kathryn@texasequestrianproperties.com,"Russell, Christie M. (0C6198)",6/12/2017
+224,"Sinclair, Danny",ashley@tryskinnywraps.com,"Bearden, Travis G. (0B1188)",6/20/2017
+225,"Holmes, Trey",treyholmesasu@yahoo.com ,"Wheeler, James B. (0E0875)",6/15/2017
+226,"Rogers, Mark",zmr.rogers@gmail.com,"Earles, Jordan P. (0C3116)",6/19/2017
+227,"Moody, Devan",n/a,"Earles, Jordan P. (0C3116)",6/17/2017
+228,"Hatcher, Ryne",mrsvhatcher@gmail.com,"Lancaster, Jay T. (0C5046)",6/16/2017
+229,"Henry, Taylor",n/a,"Lancaster, Jay T. (0C5046)",6/20/2017
+230,"Weaver, David",davidweaver903@gmail.com,"Bearden, Travis G. (0B1188)",SV
+231,"Brock, Robert",brockbusinesswork@gmail.com,"Dobson, Dennis R. (0B6274)",6/19/2017
+232,"Hammond, Alex ",n/a,"Russell, Christie M. (0C6198)",6/28/2017
+233,"Taylor, Lindsay",n/a,"Russell, Christie M. (0C6198)",6/28/2017
+234,"Camacho, Lance",n/a,"Huffaker, Wesley A. (0C6173)",6/20/2017
+235,"Pleasant, Karyn",n/a,"Hunter, Marlon B. JR (0C0288)",6/28/2017
+236,"Miller, Aisha",aishanm05@marykay.com,"Hunter, Marlon B. JR (0C0288)",6/22/2017
+237,"Simmer, Shaun",n/a,"Powell, Joshua C. (0B5086)",SV
+238,"Downs, Hanna",hanna.downs@hcr-manorcare.com ,"Wheeler, James B. (0E0875)",6/20/2017
+239,"Creel, Justin",n/a,"Earles, Jordan P. (0C3116)",6/22/2017
+240,"Tyner, Carlson","ctyner88@gmail.com
+","Dobson, Dennis R. (0B6274)",6/22/2017
+241,"Graham,Tameka",tamekagraham4@gmail.com,"Hunter, Marlon B. JR (0C0288)",6/21/2017
+242,"Tolodziecki, Daniel",n/a,"Jackman, Jeffrey M. (0C3165)",6/21/2017
+243,"Wright, Joseph",n/a,"Huffaker, Wesley A. (0C6173)",6/21/2017
+244,"Jolesch, Drew",,"Evatt, Daniel T. (0B5440)",7/10/2017
+245,"Sequeira, Javier (plan under Heidi)",resume_sequeira@yahoo.com,"Sykes, Jerret N. (0C2626)",7/13/2017
+246,"Sanchez, Efrain",n/a,"Sykes, Jerret N. (0C2626)",6/21/2017
+247,"Sagi, Jagadesh",jag.sagi@gmail.com,"Sykes, Jerret N. (0C2626)",6/21/2017
+248,"Lago, Malcolm",malcolmlago@yahoo.com,"Ling, Jennifer (0B9405)",6/22/2017
+249,"Stark, Spencer",n/a,"Friedrich, Philip L. (018519)",6/22/2017
+250,"Galloway, DJ",djgalloway@ideal-images.com,"Davis, Ryan G. (0E2661)",6/22/2017
+251,"Dasher, Trey",n/a,"Foster, Derek L. (0E0679)",6/23/2017
+252,"Choi, Sharon ",n/a,"Ling, Jennifer (0B9405)",6/28/2017
+253,"Glause, Morgan",,"Davis, Ryan G. (0E2661)",6/23/2017
+254,"Dandu, Raju",vdandu@gmail.com,"Sykes, Jerret N. (0C2626)",6/22/2017
+255,"Andrews, Amanda",n/a,"Centarri, Angela  (E2826)",6/26/2017
+256,"Ryan, Amy",amyryan1970@gmail.com,"Centarri, Angela (0E2826)",6/25/2017
+257,"Glause, Morgan",n/a,"Davis, Ryan G. (0E2661)",6/23/2017
+258,"Johnson, Jamin",johnson.jamin@gmail.com ,"Ling, Jennifer (0B9405)",6/23/2017
+259,"Robertson, Zach",n/a,"Huffaker, Wesley A. (0C6173)",6/22/2017
+260,"Soileau, Alex",n/a,"Earles, Jordan P. (0C3116)",7/7/2017
+261,"Smith, Courtney",n/a,"Cooley, Willis J. (0C1659)",SV
+262,"Perkins, Tommy",tperkins@mccatherinelaw.com,"Sykes, Jerret N. (0C2626)",6/23/2017
+263,"Bradford , Kerel",n/a,"Earles, Jordan P. (0C3116)",7/7/2017
+264,"Pace, Derrick",pacefamest.2003@gmail.com,"Centarri, Angela (0E2826)",6/26/2017
+265,"Cheney, Lindy",n/a,"Bearden, Travis G. (0B1188)",6/23/2017
+266,"Johnson, Cody",77cvjohnson@gmail.com,"Bearden, Travis G. (0B1188)",6/26/2017
+267,"Simmons, Sean",n/a,"Fonseca Rodriguez, Carlos M. (0B1409)",6/26/2017
+268,"Rollins , Jerie ",n/a,"Russell, Christie M. (0C6198)",6/28/2017
+269,"Schuster, Alisa",n/a,"Ryan, Vincent W. (099057)",6/29/2017
+270,"Sommers, Megan",megan.c.sommers@gmail.com,"Jackman, Jeffrey M. (0C3165)",7/3/2017
+271,"Patanilan, Almas",can't read it on FF,"Puga, Julian JR (0C2597)",6/29/2017
+272,"Yunus, Ali","aliyunus25@yahoo.com
+","Wheeler, James B. (0E0875)",6/26/2017
+273,"Centarri, Angela ",acentarri@gmail.com ,"Centarri, Angela (0E2826)",6/27/2017
+274,"Bloskas, Ashley",n/a,"Dobson, Dennis R. (0B6274)",6/26/2017
+275,"Widhalm, Christian",christianwidhalm@yahoo.com,"Ryan, Vincent W. (099057)",6/29/2017
+276,"Griffith, Brian",briangriffith72@yahoo.com,"Dobson, Dennis R. (0B6274)",6/25/2017
+277,"Dwyer, Tom",thomas.joh.dwyer@gmail.com,"Ryan, Vincent W. (099057)",6/29/2017
+278,"Boger, Amie",Bogerak@gmail.com,"Jackman, Jeffrey M. (0C3165)",7/19/2017
+279,"Furr, Tony",tfurr@gsoswarm.com,"Jackman, Jeffrey M. (0C3165)",7/11/2017
+280,"Cline, Seth",sscline27@gmail.com,"Fonseca Rodriguez, Carlos M. (0B1409)",6/27/2017
+281,"Hillhouse, Brandon",bhillhouse@twu556.org,"Puga, Julian JR   (0C2597)",6/29/2017
+282,"Gillespy , Nathan ",ngillespy@arcisgolf.com,"Vehslage, John J. (0B8564)",7/13/2017
+283,"Dowdall, Mark ",,"Russell, Christie M. (0C6198)",6/28/2017
+284,"Haskins, Ryan",rhaskins@qualtrics.com,"Weizel, Daniel R. (0B3919)",7/6/2017
+285,"Wilson, Naomi",,"Dobson, Dennis R. (0B6274)",SV
+286,"White, Tyler",Jonirwhite@gmail.com,"Earles, Jordan P. (0C3116)",6/28/2017
+287,"Fogt, Dan",n/a,"Friedrich, Philip L. (018519)",SV
+288,"Edmonson, Courtney",jimmyjohns3482@gmail.com ,"Sykes, Jerret N. (0C2626)",SV
+289,"Akintitan, Emanuel",n/a,"Lancaster, Jay T. (0C5046)",6/27/2017
+290,"Sciano, Natalie",n/a,"De Anda, David M. SR (0B1037)",6/26/2017
+291,"Carter, Jeff",carterj23@comcast.net,"Wheeler, James B. (0E0875)",7/3/2017
+292,"Calderon, Stephani",stephani.calderonzuniga@gmail.com,"Meredith, Jacob B. (0C5721)",6/28/2017
+293,"Jackson, Steve",64b1b2e0-a8ce-4d48-aaad-44c93d7136a0,"Knight, Christopher J. (0I1030)",7/7/2017
+294,"Huette, Russell",n/a,"Lancaster, Jay T. (0C5046)",SV
+295,"Sloan, Devon",dsloan9900@gmail.com,"Hargrove, Joshua D. (0B5135)",6/28/2017
+296,"Greene, Ian",iancglink@gmail.com ,"Wheeler, James B. (0E0875)",SV
+297,"Panowicz, Erik",n/a,"Centarri, Angela (0E2826)",7/11/2017
+298,"Nolte, Chase",n/a,"Knight, Christopher J. (0I1030)",6/27/2017
+299,"Wilson, Nikki",wilso5af.nicole@gmail.com ,"Puga, Julian JR   (0C2597)",7/6/2017
+300,"Garcia, Alexis",n/a,"Puga, Julian JR (0C2597)",6/27/2017
+301,"Ajose, Jade",n/a,"Earles, Jordan P. (0C3116)",7/5/2017
+302,"Morales, Alex",alnage@gmail.com ,"Wheeler, James B. (0E0875)",SV
+303,"Khan, Uzma",uzma_s_a@hotmail.com,"Puga, Julian JR (0C2597)",6/27/2017
+304,"Brodersen, Aaron",aaron@abrodersen.com,"Ryan, Vincent W. (099057)",6/26/2017
+305,"McCook, Rachel",,"Wheeler, James B. (0E0875)",6/29/2017
+306,"Zach, Sam",n/a,"Friedrich, Philip L. (018519)",6/29/2017
+307,"Birkestrand, Chris",n/a,"Grams, Nicholas B. (020721)",SV
+308,"McManus, Brian",bmcman22@gmail.com,"Earles, Jordan P. (0C3116)",6/28/2017
+309,"Pearson, Mark ",mpearson@udallas.edu ,"Cooley, Willis J. (0C1659)",6/29/2017
+310,"Carlile, Emily",emilycarlile@sbcglobal.net,"Meredith, Jacob B. (0C5721)",6/27/2017
+311,"Kelly, MK",marykristenkelly@gmail.com,"Wheeler, James B. (0E0875)",7/3/2017
+312,"Neal, Donald",djneal21@hotmail.com,"Knight, Christopher J. (0I1030)",6/27/2017
+313,"Lewis, Brad",,"Wheeler, James B. (0E0875)",SV
+314,"Hoa, Joseph",thic_phothirat@yahoo.com,"Dobson, Dennis R. (0B6274)",6/29/2017
+315,"Lee, Heath",n/a,"Foster, Derek L. (0E0679)",6/28/2017
+316,"Rautenberg-Cassidy, Rachelle",,"Luellman, Kristopher R. (0B8764)",6/30/2017
+317,"McEvoy, Scott",scottmcevoy@me.com,"Wheeler, James B. (0E0875)",7/10/2017
+318,"Otto, Daniel",n/a,"Walton, Russell D. (0B4459)",6/29/2017
+319,"Horst, Taylor",n/a,"Walton, Russell D. (0B4459)",6/29/2017
+320,"Rathman, Clark",n/a,"Walton, Russell D. (0B4459)",SV
+321,"Kube, Taylor",n/a,"Walton, Russell D. (0B4459)",6/29/2017
+322,"Corbett, Larry (2 of 4)",n/a,"Friedrich, Philip L. (018519)",SV
+323,"Corbett, Larry (3 of 4)",n/a,"Friedrich, Philip L. (018519)",SV
+324,"Corbett, Larry (4 of 4)",n/a,"Friedrich, Philip L. (018519)",SV
+325,"Lewandowski, Rachel",n/a,"Walton, Russell D. (0B4459)",7/5/2017
+326,"Cunningham, Alex",alexcunn13@gmail.com,"Walton, Russell D. (0B4459)",6/29/2017
+327,"Jensen, Michael",majense77@gmail.com,"Walton, Russell D. (0B4459)",6/30/2017
+328,"Phillips, Shawn",,"Grams, Nicholas B. (020721)",6/29/2017
+329,"Fogt, Dan",n/a,"Friedrich, Philip L. (018519)",SV
+330,"Corbett, Larry",n/a,"Friedrich, Philip L. (018519)",SV
+331,"Duden, Brandon",,"Ryan, Vincent W. (099057)",7/1/2017
+332,"King, Kelli",,"Centarri, Angela (0E2826)",7/3/2017
+333,"Galloway, Jordan",jordangalloway17@gmail.com,"Sykes, Jerret N. (0C2626)",6/29/2017
+334,"Hanson, Carrie",carhanson10@gmail.com,"Ryan, Vincent W. (099057)",6/29/2017
+335,"Hascall, Kyle",n/a,"Eikmeier, Mathew J. (019495)",7/3/2017
+336,"Suazo, Andres",n/a,"Huffaker, Wesley A. (0C6173)",6/29/2017
+337,"Wanjohi, Charles",kcharlly@hotmail.com,"Olson, Jonathon G. (0E5869)",6/29/2017
+338,"Garcia, Daniela",danielagarcia1216@gmail.com,"Grams, Nicholas B. (020721)",7/3/2017
+339,"Scheer, Cole",cstegr_95@hotmail.com,"Walton, Russell D. (0B4459)",7/3/2017
+340,"Schmidt, Philip",,"Corbaley, Shelby L. (0B1754)",7/6/2017
+341,"Baesel, Eric",,"Lancaster, Jay T. (0C5046)",SV
+342,"Johnston, Wade",wadejaws@hotmail.com,"Lancaster, Jay T. (0C5046)",7/7/2017
+343,"Koch, Blake",n/a,"Sykes, Jerret N. (0C2626)",7/11/2017
+344,"England, Hannah",n/a,"Jackman, Jeffrey M. (0C3165)",7/10/2017
+345,"Johnson, Elizabeth ",n/a,"Russell, Christie M. (0C6198)",7/7/2017
+346,"Jones, Cory",cory954jones@yahoo.com,"Ryan, Vincent W. (099057)",7/7/2017
+347,"Dodgen, David",n/a,"Bearden, Travis G. (0B1188)",SV
+348,"Meier, Derrek",n/a,"Ryan, Vincent W. (099057)",7/7/2017
+349,"Cooksy, Amanda",n/a,"Lancaster, Jay T. (0C5046)",7/6/2017
+350,"Nuzum, Chad",chadnuzum@gmail.com,"Brown, Raymond T. (0B6807)",7/7/2017
+351,"Brus, Jordan",,"Foster, Derek L. (0E0679)",7/6/2017
+352,"Havins, Justin ",justin.havins@frostbank.com,"Robb, Matthew D C5405",7/4/2017
+353,"Northcutt, Charles",n/a,"Knight, Christopher J. (0I1030)",7/7/2017
+354,"Schroeder, Derek",dschroeder371@gmail.com,"Mestl, Michaela (0C9865)",7/10/2017
+355,"Kuchera, Austin",,"Stewart, Connor J. (0C6948)",7/10/2017
+356,"Whitman, Will",n/a,"Earles, Jordan P. (0C3116)",7/7/2017
+357,"Woolaston, Dorian",dorian.woolaston@gmail.com,"Hunter, Marlon B. JR (0C0288)",7/3/2017
+358,"Ramallo, Bryan",n/a,"Stewart, Connor J. (0C6948)",7/7/2017
+359,"Kyles, Jimn",,"Bearden, Travis G. (0B1188)",7/7/2017
+360,"Julian, Justin ",,"Centarri, Angela (0E2826)",7/5/2017
+361,"Dibble, Renita",,"Hunter, Marlon B. JR (0C0288)",SV
+362,"Millisor, Matt",mmillisor@pckb-law.com,"Wheeler, James B. (0E0875)",7/2/2017
+363,"Teichroew, Josh",n/a,"Luellman, Kristopher R. (0B8764)",7/4/2017
+364,"Ryan, Vincent",n/a,"Ryan, Vincent W. (099057)",7/7/2017
+365,"Law, Darius",dariusdlaw@gmail.com,"Hunter, Marlon B. JR (0C0288)",7/11/2017
+366,"Lyon, Alicia",Alicia.lyon89@gmail.com,"Grams, Nicholas B. (020721)",7/5/2017
+367,"Bowens, Herschel",michellefbowens@gmail.com,"Hargrove, Joshua D. (0B5135)",7/7/2017
+368,"Jones, Lowell",n/a,"Hunter, Marlon B. JR (0C0288)",7/5/2017
+369,"Moore, Tyler ",tyler.moore@siddillon.com ,"Zinn, Blake L. (0B4936)",7/5/2017
+370,"Haack, Jon",haacker81@yahoo.com,"Walton, Russell D. (0B4459)",SV
+371,"Tullos, Jessica",tullosfam@outlook.com,"Centarri, Angela (0E2826)",7/6/2017
+372,"Tiner, Zach ",zachtiner@rocketmail.com,"Cooley, Willis J. (0C1659",7/5/2017
+373,"Dail, Sarah",n/a,"Jackman, Jeffrey M. (0C3165)",7/5/2017
+374,"Hrbacek, Joe",Joseph.hrbacek@gmail.com,"Russell, Christie M. (0C6198)",7/6/2017
+375,"Murchison, Lily",n/a,"Russell, Christie M. (0C6198)",7/5/2017
+376,"Walters, Brittany",Bpageler03@gmail.com,"Elias, Nathan C. (016131)",7/5/2017
+377,"Smith, Mark ",mesmith@bakerlaw.com,"Schofield, Justin D. (0B4511",SV
+378,"Blessing, Marshal",marshalblessing@gmail.com,"Hargrove, Joshua D. (0B5135)",7/11/2017
+379,"Kusmierski, Brittney",,"Corbaley, Shelby L. (0B1754)",7/11/2017
+380,"Cole, Tommy ",t.cole78@yahoo.com,"Lancaster, Jay T. (0C5046)",7/5/2017
+381,"Unseld, Austin",n/a,"Foster, Derek L. (0E0679)",7/7/2017
+382,"Dedick, Shelby",n/a,"Foster, Derek L. (0E0679)",7/10/2017
+383,"Zimmerer, Mason",n/a,"Foster, Derek L. (0E0679)",7/5/2017
+384,"Hubber, Ben",n/a,"Foster, Derek L. (0E0679)",7/7/2017
+385,"Maguire, Dakota",n/a,"Foster, Derek L. (0E0679)",7/8/2017
+386,"Armstrong, Clayton ",carmstrong2009@gmail.com,"Corbaley, Shelby L. (0B1754)",7/6/2017
+387,"Rameshkumar, Pranavi",pranavirameshkumar@gmail.com,"Powell, Joshua C. (0B5086)",7/5/2017
+388,"Nguyen, Tuan",tbnguye3@ncsu.edu,"Powell, Joshua C. (0B5086)",SV
+389,"Maggart, Michael",mel_d56@gmail.com,"Ryan, Vincent W. (099057)",7/11/2017
+390,"Sharp, Matt",mattsharp@outlook.com,"Wheeler, James B. (0E0875)",7/7/2017
+391,"Slaughter, Mecca",m3slaughter@yahoo.com,"Eiler, Cody J. (0C6378)",7/11/2017
+392,"Ballard, Josh",n/a,"Meredith, Jacob B. (0C5721)",7/6/2017
+393,"Hurtig, Justin ",n/a,"Eiler, Cody J. (0C6378)",7/11/2017
+394,"Baker, Bryan",Bryan_8888@yahoo.com,"Earles, Jordan P. (0C3116)",7/7/2017
+395,"Lowery, Josh",jlowery5333@yahoo.com,"Eiler, Cody J. (0C6378)",7/6/2017
+396,"Owens, Keith",n/a,"Schofield, Justin D. (0B4511)",7/7/2017
+397,"Gugig, Hilary",hbgugig@ncsu.edu,"Williams, Johnathan P. (0B0512)",7/7/2017
+398,"Yarborough, Ted",n/a,"Cooley, Willis J. (0C1659)",7/6/2017
+399,"Powers, Trent",tlpowers21@gmail.com,"Huffaker, Wesley A. (0C6173)",7/7/2017
+400,"Kersey, Stefani",kersey.stefani@yahoo.com,"Bearden, Travis G. (0B1188)",SV
+401,"Yarawsky, Kyle",n/a,"Earles, Jordan P. (0C3116)",7/7/2017
+402,"Meysenburg, Nick",,"Friedrich, Philip L. (018519)",7/10/2017
+403,"Bloskas, Connor",n/a,"Dobson, Dennis R. (0B6274)",7/10/2017
+404,"Pearson, Chad",clpears2@uncg.edu,"Jackman, Jeffrey M. (0C3165)",7/11/2017
+405,"Kusmierski, Brittney",n/a,"Corbaley, Shelby L. (0B1754)",7/11/2017
+406,"Krenk, Caleb",n/a,"Friedrich, Philip L. (018519)",7/7/2017
+407,"Lopez, Rodolfo",rudd.lopez@gmail,"De Anda, David M. SR   (0B1037)",7/11/2017
+408,"Frank, Logan",n/a,"Friedrich, Philip L. (018519)",7/10/2017
+409,"Schraeder, Abe",n/a,"Jackman, Jeffrey M. (0C3165)",7/10/2017
+410,"Mckinney, Rob",,"Jackman, Jeffrey M. (0C3165)",7/10/2017
+411,"McKenzie, Simon ",simonm@gtainsures.com,"Grams, Nicholas B. (020721)",7/11/2017
+412,"Morris, Jordan",n/a,"Jackman, Jeffrey M. (0C3165)",7/10/2017
+413,"Wilson, Doug",d.wilson@tricentis.com,"Hargrove, Joshua D. (0B5135)",7/10/2017
+414,"Lehn, Carol",clehn@me.com,"Elias, Nathan C. (016131)",7/8/2017
+415,"Kaplan, Heather","heatherkwtx@gmail.com
+","Lancaster, Jay T. (0C5046)",7/10/2017
+416,"Korf, Keegan",,"Centarri, Angela (0E2826)",7/11/2017
+417,"Surguine, Nicholas",nsurguine@gmail.com,"Robb, Matthew D. (0C5405)",SV
+418,"Williams, Tonya",n/a,"Walton, Russell D. (0B4459)",7/11/2017
+419,"Wilson, Cole",n/a,"Friedrich, Philip L. (018519)",7/10/2017
+420,"Perry, Brandon",bperry@auroracoop.com,"Grams, Nicholas B. (020721)",7/10/2017
+421,"Jones, Bret",Bret.jones@unmc.edu,"Grams, Nicholas B. (020721)",7/12/2017
+422,"Miller, Brandon",brandon.m.miller27@gmail.com,"Ping, David D. (010366)",7/11/2017
+423,"Martin,Sara",,"Stewart, Connor J. (0C6948)",7/11/2017
+424,"Cook, Katy","Cook, Katy","Gilbert, Adam S. (0C5193)",7/11/2017
+425,"Bardsley, Trey",tbardsl2@gmail.com,"Walton, Russell D. (0B4459)",7/11/2017
+426,"Findley, Haley",n/a,"Puga, Julian JR   (0C2597)",7/11/2017
+427,"Andersen, Robert",wandersen@cobank.com,"Brumbaugh, Darrin L. (073541)",7/11/2017
+428,"Taylor, Rhonda",rhondagall@hotmail.com,"Eiler, Cody J. (0C6378)",7/11/2017
+429,"Hord, Derek",n/a,"Eiler, Cody J. (0C6378)",SV
+430,"Soriano, Anthony",asoriano@dominuscommercial.com,"Puga, Julian JR   (0C2597)",7/13/2017
+431,"Freeman, Cole",n/a,"Davis, Ryan G. (0E2661)",7/11/2017
+432,"Fant, Mackenzie",n/a,"Russell, Christie M. (0C6198)",7/11/2017
+433,"Wenger, Trevor",trevmegwenger@gmail.com,"Corbaley, Shelby L. (0B1754)",SV
+434,"Mann, Dawn",dmann@alphabusinessimages.com,"Daou, Suzanne R. (0C0468)",7/13/2017
+435,"Barnard, Clayton",n/a,"Daou, Suzanne R. (0C0468)",7/13/2017
+436,"Todo, Christina ",n/a,"Daou, Suzanne R. (0C0468)",7/12/2017
+437,"Forman, Micah",n/a,"Earles, Jordan P. (0C3116)",7/11/2017
+438,"Fiala, Jamie",jfiala07_bball@hotmail.com,"Eikmeier, Mathew J. (019495)",7/17/2017
+439,"Wilson, Gus",n/a,"Earles, Jordan P. (0C3116)",7/11/2017
+440,"Findley, Brendon",n/a,"Karges, Nathan A. (010358)",7/12/2017
+441,"Lerdahl, Tyler ",tlerdahl09@gmail.com,"Corbaley, Shelby (0B1754)",7/11/2017
+442,"Mills, Derrick",trini_13@hotmail.com,"Brown, Raymond T. (0B6807)",7/12/2017
+443,"Johnson, Ben",ben.johnson@icidigital.com,"Wall, Joshua T. (020923)",7/11/2017
+444,"Willis, Austin",agw0052@gmail.com,"Bearden, Travis G. (0B1188)",7/12/2017
+445,"McCaulley, Alphonso",n/a,"
+Sykes, Jerret N. (0C2626)",SV
+446,"Bowen, Chase",taren8686@yahoo.com,"Robb, Matthew D. (0C5405)",7/14/2017
+447,"Flourney, Neiman",n/a,"Schofield, Justin D. (0B4511)",7/12/2017
+448,"Auman, Zach",zpa4br@virginia.edu,"Gilbert, Adam S. (0C5193)",7/17/2017
+449,"Hajek, Dustin",DUSTINHAJEK@YMAIL.COM,"
+Russell, Christie M. (0C6198)",7/13/2017
+450,"McClure, Ed",n/a,"Wobig, Ryan R. (0C7895)",7/13/2017
+451,"Johnson, Emmanuel ",n/a,"Hunter, Marlon B. JR   (0C0288)",7/13/2017
+452,"Fiesel, Paul","paul.fiesel@gmail.com
+","Cooley, Willis J. (0C1659)",7/21/2017
+453,"O`Brien, Michael ",obie252@yahoo.com,"Russell, Christie M. (0C6198)",7/14/2017
+454,"Shelton, Michiel",michielshelton@hotmail.com,"Robb, Matthew D. (0C5405)",
+455,"Piper, Dale",dalepiper58@gmail.com,"Zinn, Blake L. (0B4936)",SV
+456,"Burrell-Cullins, Melody ",melodyburrell6810@msn.com.,"Ling, Jennifer (0B9405)",7/17/2017
+457,"Lugano, Timothy",n/a,"Earles, Jordan P. (0C3116)",7/13/2017
+458,"Kapke, Brandon","not in WR, FF or CRM","Stewart, Connor J. (0C6948)",7/13/2017
+459,"Schofield, David","schosplace@comcast.net
+","Schofield, Justin D. (0B4511)",SV
+460,"Watson, DeAngelo",djwatso1@aggies.ncat.edu,"Hunter, Marlon B. JR (0C0288)",7/14/2017
+461,"Laman , Greg",greg@graileys.com.,"Evatt, Daniel T. (0B5440)",7/19/2017
+462,"Garretson, Matthew",matthew.garretson@verizonwireless.com,"Evatt, Daniel T. (0B5440)",7/14/2017
+463,"Bahl, Jason",jay.bahl@gpreinc.com.,"Randels, Rob A. (065530)",7/21/2017
+464,"Berger, Josh",jberger@gmail.com,"Bearden, Travis G. (0B1188)",7/20/2017
+465,"Howard, Dennis",,"Earles, Jordan P. (0C3116)",7/14/2017
+466,"Bridgman, Slater",slater.bridgman@gmail.com ,"Vehslage, John J. (0B8564)",7/18/2017
+467,"Jurgensmeier, John",n/a,"Stewart, Connor J. (0C6948)",7/17/2017
+468,"Tofaute, Ben","not in WR, FF or CRM","Earles, Jordan P. (0C3116)",7/14/2017
+469,"Polacek, Amanda",,"Karges, Nathan A. (010358)",7/14/2017
+470,"Josey, Marion",marianjosey@gmail.com,"Jackman, Jeffrey M. (0C3165)",7/19/2017
+471,"Ard, Brian",brianpard@gmail.com,"Friedrich, Philip L. (018519)",7/17/2017
+472,"Josey, Sylvia",n/a,"Jackman, Jeffrey M. (0C3165)",SV
+473,"Dwyer, John",n/a,"Jackman, Jeffrey M. (0C3165)",7/17/2017
+474,"Webber , Tyler ",n/a,"Foster, Derek L. (0E0679",7/17/2017
+475,"Reimnitz, Trevor",n/a,"Foster, Derek L. (0E0679",7/17/2017
+476,"Dorcey, Josh",joshuadorcey@hotmail.com,"Friedrich, Philip L. (018519)",7/18/2017
+477,"Kenkel, Alex",n/a,"Foster, Derek L.",7/17/2017
+478,"Taibemal, Austin",ajtaibemal@gmail.com,"
+Friedrich, Philip L. (018519)",7/18/2017
+479,"Johnson, Dawson",,"Foster, Derek L. (0E0679",7/18/2017
+480,"Rogers, Mandy",,"Schofield, Justin D. (0B4511)",
+481,"Splawn, Charles",csplawn@elon.edu,"Wheeler, James B. (0E0875)",SV
+482,"Woods, Shawn",n/a,"Foster, Derek L. (0E0679",7/19/2017
+483,"Lonkard, Caleb",calockard@gmail.com.,"Russell, Christie M. (0C6198)",7/21/2017
+484,"Rogers, Mandy",mandyrbusby@gmail.com,"Schofield, Justin D. (0B4511)",7/18/2017
+485,"Creel, Matt",,"Earles, Jordan P. (0C3116)",7/19/2017
+486,"Sarringer, Travis",n/a,"Friedrich, Philip L. (018519)",7/18/2017
+487,"Ali, Pervez",no client email in FF or CRM,"Bearden, Travis G. (0B1188)",7/20/2017
+488,"La Brie, Jeremy",jeremy.labrie@yahoo.com.,"Davis, Ryan G. (0E2661)",7/18/2017
+489,"Meysenburg, Nick",nmeysenburg1128@huskers.unl.edu,"Friedrich, Philip L. (018519)",7/19/2017
+490,"Schiltmeyer, Eric",schilt_meyereric11@hotmail.com,"Eiler, Cody J. (0C6378)",7/18/2017
+491,"Sekutera, Jed",jed@mnfeeds.com,"Eiler, Cody J. (0C6378)",7/18/2017
+492,"Asche, Josh",josh.asche@lcpublic.org,"Eiler, Cody J. (0C6378)",7/18/2017
+493,"Linneman, Morgan",n/a,"Foster, Derek L. (0E0679",7/19/2017
+494,"Abegglen, Nate",n/a,"Eiler, Cody J. (0C6378)",7/18/2017
+495,"Chiu, Alden",n/a,"Meredith, Jacob B. (0C5721)",7/19/2017
+496,"Akouala, Christer",akouala.rc@gmail.com,"Fonseca Rodriguez, Carlos M. (0B1409)",7/18/2017
+497,"Bradberry, Jerod",jerod.bradberry@gmail.com,"Meredith, Jacob B. (0C5721)",7/19/2017
+498,"
+Luu, Michael",luu.serah@gmail.com,"Schofield, Justin D. (0B4511)",7/18/2017
+499,"Wilson, Robert",rfwilson24@gmail.com,"Hargrove, Joshua D. (0B5135)",7/19/2017
+500,"Levinton, Rick",drproofer@yahoo.com,"Bearden, Travis G. (0B1188)",
+501,"Landry, Ryan",rdlandry@gmail.com,"Russell, Christie M. (0C6198)",7/21/2017
+502,"Ritz, Brandy ",brandyritz@gmail.com,"Elias, Nathan C. (016131",7/19/2017
+503,"Williams, Melissa",netportrait@gmail.com,"Wall, Joshua T. (020923)",7/26/2017
+504,"Augustyn, Mike",n/a,"Eiler, Cody J. (0C6378)",7/19/2017
+505,"Newburn, Gary",n/a,"Bearden, Travis G. (0B1188)",7/25/2017
+506,"Perry, Chase",cperry@auroracoop.com,"Grams, Nicholas B. (020721)",
+507,"Tibbs, Casey",n/a,"Huffaker, Wesley A. (0C6173)",7/19/2017
+508,"Lefler, Michael",n/a,"Karges, Nathan A. (010358)",7/18/2017
+509,"Sumner, Bryan",bsumner@eagles.nccu.edu,"Hunter, Marlon B. JR   (0C0288)",7/19/2017
+510,"Ovary, Jonathan ",jonross92@yahoo.com,"Hunter, Marlon B. JR   (0C0288)",7/20/2017
+511,"Wenger, Trevor",trevmegwenger@gmail.com,"Corbaley, Shelby L. (0B1754)",7/21/2017
+512,"Rawlinson, Ryan",davidrawlinson814@gmail.com.,"Earles, Jordan P. (0C3116)",7/20/2017
+513,"Langevin, Rachel",radiant428@gmail.com,"De Anda, David M. SR (0B1037)",7/19/2017
+514,"Stradley, Justin",n/a,"Earles, Jordan P. (0C3116)",7/20/2017
+515,"Hall, Tara",n/a,"Russell, Christie M. (0C6198)",7/21/2017
+516,"Hickson, Laddie",laddie.hickson@gmail.com,"Bierman, Boden D. (0B9489)",7/21/2017
+517,"O`Dowd, Jennifer",jennifer.odowd@conagrafoods.com,"Dierks, Joe (78839)",SV
+518,"Bastida, Jorge",Jorge.Bastida@saputo.com,"Robb, Matthew D. (0C5405)",7/21/2017
+519,"Burke, Greg",gburke21@gmail.com,"Corbaley, Shelby L. (0B1754)",
+520,"Schneekloth, Bridgette",bridgette_13@hotmail.com,"Stewart, Connor J. (0C6948)",7/21/2017
+521,"
+Stewart, Connor",n/a,"Stewart, Connor J. (0C6948)",7/25/2017
+522,"
+Kube, Elizabeth",n/a,"Stewart, Connor J. (0C6948)",7/31/2017
+523,"Smith, Matthew",n/a,"Stewart, Connor J. (0C6948)",7/21/2017
+524,"Batteux, Thomas ",tbatteux27@gmail.com,"Puga, Julian JR   (0C2597)",7/21/2017
+525,"Burke, Greg",gburke21@gmail.com,"Corbaley, Shelby L. (0B1754)",7/21/2017
+526,"
+Rhoades, Jon",jon@t3ch.net ,"Davis, Ryan G. (0E2661)",7/24/2017
+527,"Fabisiak, Mary Kay",mbcreate91@gmail.com.,"Centarri, Angela (0E2826)",7/24/2017
+528,"Mason, Sarah",n/a,"Jackman, Jeffrey M. (0C3165)",7/26/2017
+529,"
+Escalante, Anthony",anthonyxe@gmail.com,"Hargrove, Joshua D. (0B5135)",7/25/2017
+530,"Nguyen, Ly",,"Stewart, Connor J. (0C6948)",
+531,"Drewry, Ferrell",fdrewry@yahoo.com,"Jackman, Jeffrey M. (0C3165)",
+532,"Kapke, Dalton",kapkedalton@yahoo.com.,"Stewart, Connor J. (0C6948)",7/25/2017
+533,"Varela, Pamela",pvarela@smu.edu,"Sykes, Jerret N. (0C2626)",7/23/2017
+534,"Weatherington, Jay",jsweatherington@gmail.com,"Williams, Johnathan P. (0B0512)",7/25/2017
+535,"Hooker, Jabari",RichardJabariHooker@hotmail.com,"Hunter, Marlon B. JR   (0C0288)",7/28/2017
+536,"Perry, Chase",cperry@auroracoop.com,"Grams, Nicholas B. (020721)",7/25/2017
+537,"Khonje, Andrew",n/a,"Jackman, Jeffrey M. (0C3165)",7/26/2017
+538,"Determan, Deborah",debdeterman@gmail.com,"
+Randels, Rob A. (065530)",7/26/2017
+539,"Haifley, Jake",jake.haifley@nm.com,"Kruse, Nathan T. (011677)",7/27/2017
+540,"McBride, Josh",n/a,"Foster, Derek L. (0E0679)",7/27/2017
+541,"Spoor, Terry",tspoor@southeast.edu,"Elias, Nathan C. (016131)",7/25/2017
+542,"Ritter, Anna",AnnaCatherineRitter@gmail.com,"Daou, Suzanne R. (0C0468)",7/25/2017
+543,"Tjaden, Jordan",Jordan.tjaden@doane.edu,Derek Lee Foster (E0679),7/26/2017
+544,"Clark, James",theclarks927@gmail.com.,"Bierman, Boden D. (0B9489)",7/26/2017
+545,"Reid, Joseph","Jdreid2013@gmail.com
+","Hunter, Marlon B. JR   (0C0288)",7/31/2017
+546,"Knox, Alex",alex.knox@skanska.com,"Sykes, Jerret N. (0C2626)",7/27/2017
+547,"Leidner, Robert",mbl6613@gmail.com,"Puga, Julian JR (0C2597)",7/26/2017
+548,"Cummins, Ashley",ashley.m.cummins@gmail.com,"Houston, Jason S. (0B0962)",7/25/2017
+549,"Gattis, Jory",n/a,"Earles, Jordan P. (0C3116)",7/27/2017
+550,"White, Megan",,"Earles, Jordan P. (0C3116)",7/26/2017
+551,"Crockett, Tanner", tcrockett_01@yahoo.com,"Lancaster, Jay T. (0C5046)",7/26/2017
+552,"Wallace, Amy",amysuewallace2007@yahoo.com,"Lancaster, Jay T. (0C5046)",7/27/2017
+553,"Willsey, Chase",,"Earles, Jordan P. (0C3116)",7/27/2017
+554,"Edwards, Jake",jedwards@summitmidstream.com,"Stewart, Connor J. (0C6948)",7/27/2017
+555,"Vidro, Brandon",bwvidro@gmail.com,"Fonseca Rodriguez, Carlos M. (0B1409)",7/27/2017
+556,"Kossack, Jeff",jeffkossack@mac.com,"Lancaster, Jay T. (0C5046)",SV
+557,"Burnett, Greg",n/a,"Ryan, Vincent W. (099057)",7/30/2017
+558,"Krafka, Cody",krafka3@yahoo.com,"Karges, Nathan A. (010358)",7/30/2017
+559,"Claypool, Travis","Emmclaypool@gmail.com
+","Wall, Joshua",7/27/2017
+560,"Lampert, Peter",planpert.do@gmail.com,"Grams, Nicholas B. (020721)",7/27/2017
+561,"Byrd, Thomas ",n/a,"Friedrich, Philip L. (018519)",7/27/2017
+562,"Nguyen, Ly ",n/a,"Stewart, Connor J. (0C6948)",
+563,"Key, Nate",nkey13@gmail.com,"Eiler, Cody J. (0C6378)",7/28/2017
+564,"Mielcarek, Mike",mikemielcarek@hotmail.com,"Schofield, Justin D. (0B4511)",7/28/2017
+565,"Bradshaw, Jacob",jakedbradshaw@gmail.com,"Huffaker, Wesley A. (0C6173)",7/28/2017
+566,"Owen, Josh",owen_josh@gmail.com,"Eiler, Cody J. (0C6378)",7/27/2017
+567,"Green, Ben",n/a,"Eiler, Cody J. (0C6378)",
+568,"Owens, Hunter",hunter@realtyprosco.com,"Eiler, Cody J. (0C6378)",7/28/2017
+569,"Webb, Richard", rwebb1@caesars.com.,"Randels, Rob A. (065530)",
+570,"Wingert, Matt",n/a,"Friedrich, Philip L. (018519)",7/31/2017
+571,"Wright, Cody ",codywright517@gmail.com,"Eiler, Cody J. (0C6378)",7/28/2017
+572,"Brown, Tiara",tiarakush@gmail.com,"Ryan, Vincent W. (099057)",7/31/2017
+573,"Chatwell, John",John.chatwell@gmail.com,"Friedrich, Philip L. (018519)",SV
+574,"Brinkman, Tyler",tybrinkman@gmail.com,"Grams, Nicholas B. (020721)",SV
+575,"Hommel, Justin",,"Earles, Jordan P. (0C3116)",
+576,"Roedel, Gordon",gordon.roedel@gmail.com,"Nicholas
+Bernard Grams (20721)",SV
+577,"De Lara, Kelcey",kelcey_delara@yahoo.com,"Meredith, Jacob B. (0C5721)",7/31/2017
+578,"Schrader, Trevor",trevorschrader_10@icloud.com,"Eiler, Cody J. (0C6378)",7/31/2017
+579,"Martins, Stephine",stephaniepmartins@gmail.com,"Fonseca Rodriguez, Carlos M. (0B1409)",7/31/2017
+580,"Payne, Gavin",bingchiro@hotmail.com,"Ryan, Vincent W.  (099057",
+581,"Ricotta, Betsy",bcricotta@gmail.com,"Williams, Johnathan P. (0B0512)",
+582,"Norman, Moses",moses925@gmail.com,,
+583,"Grasz, Ty",tyger1121@gmail.com,"Walton, Russell D. (0B4459)",
+584,"Lamm, Dannel",dglamm@atd-us.com,"Williams, Johnathan P. (0B0512)",
+585,"Tolodziecki, Mark",Rachel Cralle,"Jackman, Jeffrey M. (0C3165)",SV
+586,"Schilt, Phillip",philip.schilt@yahoo.com,"Joshua David Hargrove,
+CFP",
+587,"Gauer, David", davidgauer@live.com,"Bearden, Travis G. (0B1188)",7/31/2017
+588,"Schwieger, Stephanee",n/a,"Foster, Derek L. (0E0679)",
+589,"Cox, Sarah",sarahlcox6@gmail.com.,"Walton, Russell D. (0B4459)",
+590,"Sides, Stephanie",n/a,"Sykes, Jerret N. (0C2626)",
+591,"Rojas, Matt",matthewprojas@gmail.com,"Willis Joseph Cooley
+
+",
+592,"Parr, Joe",n/a,"Sykes, Jerret N. (0C2626)",
+593,"Lott, Ben",bwlott10@gmail.com,"Walton, Russell D. (0B4459)",
+594,"Vance, Alex",vanceah1128@gmail.com,"Jackman, Jeffrey M. (0C3165)",
+595,"Lamm, Dannel",dglamm@atd-us.com,"Williams, Johnathan P. (0B0512)",
+596,"Williamson, Ben",ben.williamson@nstar-financial.com,"Grams, Nic (20721)",SV
+597,"Ford, Jessica ",n/a,"Knight, Chris",
+598,"Cohen, Beth",,"Houston, Jason S. (0B0962)",SV
